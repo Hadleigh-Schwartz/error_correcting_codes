@@ -1,7 +1,7 @@
 # Error Correcting Codes
 
 
-Reed Solomon, Viterbi (both hard and soft decoding), and Concatenated error correcting codes with a streamlined interface. 
+Python implementations of Reed Solomon, Viterbi (both hard and soft decoding), and Concatenated error correcting codes with a streamlined interface. 
 
 Plus, simulations to evaluate error correction performance under noisy communication conditions.
 
