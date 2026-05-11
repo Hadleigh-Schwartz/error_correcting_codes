@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 python demo.py
 ```
-This script demonstrates all error correctors and simulation options demonstrated [demo.py](demo.py). 
+This script demonstrates all error correctors and simulation options.
 
 ### Step-by-step walkthrough
 1. Initialize an error corrector
